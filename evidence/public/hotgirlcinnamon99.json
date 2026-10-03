@@ -1,0 +1,168 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Cinnamon Dreams",
+  "identity_assessment": "Strong",
+  "identity_route": "Creator-owned therealcinnamondreams.com/join.html directly links official Instagram, TikTok and Fanvue. Fanvue name and AI label confirmed in primary profile.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 239431,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/therealcinnamondreams/",
+    "instagram_url": "https://www.instagram.com/therealcinnamondreams/",
+    "tiktok_url": "https://www.tiktok.com/@therealcinnamondreams",
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": 1652
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/hotgirlcinnamon99",
+    "handle": "hotgirlcinnamon99",
+    "display_name": "Cinnamon Dreams",
+    "aggregate_likes": 86637,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫311608",
+    "raw_subscription_price": 1199,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-03T06:57:37+00:00",
+      "posts_in_30_day_window": 9,
+      "median_likes": 294,
+      "median_likes_plus_comments": 358,
+      "observed_sample_interaction_ratio_percent": 0.14952115640831806,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DWghSFIDEvH/",
+          "timestamp_utc": "2026-03-30T12:12:15+00:00",
+          "likes": 13302,
+          "comments": 864,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DU6nP1cjJrF/",
+          "timestamp_utc": "2026-02-18T22:21:54+00:00",
+          "likes": 30594,
+          "comments": 789,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DN3amijWM4f/",
+          "timestamp_utc": "2025-08-27T16:53:46+00:00",
+          "likes": 113122,
+          "comments": 3691,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DeBd6MJMOmx/",
+          "timestamp_utc": "2026-10-03T06:57:37+00:00",
+          "likes": 46,
+          "comments": 21,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAVQJkstlK/",
+          "timestamp_utc": "2026-10-02T20:22:50+00:00",
+          "likes": 97,
+          "comments": 23,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd_u_-YMtch/",
+          "timestamp_utc": "2026-10-02T14:48:30+00:00",
+          "likes": 294,
+          "comments": 64,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd-266xsoG8/",
+          "timestamp_utc": "2026-10-02T06:38:35+00:00",
+          "likes": 347,
+          "comments": 59,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9c1OgsbBV/",
+          "timestamp_utc": "2026-10-01T17:31:09+00:00",
+          "likes": 281,
+          "comments": 56,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd7UAo1MHfe/",
+          "timestamp_utc": "2026-09-30T21:35:44+00:00",
+          "likes": 415,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd6rv7oMUbI/",
+          "timestamp_utc": "2026-09-30T15:43:44+00:00",
+          "likes": 251,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd5pzcgMAd9/",
+          "timestamp_utc": "2026-09-30T06:07:39+00:00",
+          "likes": 623,
+          "comments": 75,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4OwvVMq_B/",
+          "timestamp_utc": "2026-09-29T16:52:12+00:00",
+          "likes": 314,
+          "comments": 76,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned Instagram post: 3 Oct 2026. The 9 returned posts within the 30-day window have median 294 likes and 358 likes + comments (0.15% of observed followers). A pinned Aug 2025 post has 113,122 likes; it does not describe typical recent performance.",
+  "limitations": "Instagram 239,431 versus linked TikTok 1,652. A strong identity chain and large Instagram audience do not establish paid subscriber counts or revenue.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/hotgirlcinnamon99",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/therealcinnamondreams/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://therealcinnamondreams.com/join.html",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://linktr.ee/therealcinnamondreams",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://linktr.ee/hotgirlcinnamon99",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://dfans.ai/therealcinnamondreams",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://therealcinnamondreams.com/story.html",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

@@ -1,0 +1,148 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Yuna Moore",
+  "identity_assessment": "Strong join; availability conflict",
+  "identity_route": "Current Instagram bio links the exact creator website. Following its actual outbound button resolves to the canonical Fanvue /yunamoore page, with matching name and public portrait metadata.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 82779,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/yuna.moore/",
+    "instagram_url": "https://www.instagram.com/yuna.moore/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/yunamoore",
+    "handle": "yunamoore",
+    "display_name": "Yuna Moore",
+    "aggregate_likes": null,
+    "is_ai_creator": null,
+    "is_sfw_creator": null,
+    "localized_subscription_display": null,
+    "raw_subscription_price": null,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": "101K (rounded)"
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-02T23:52:43+00:00",
+      "posts_in_30_day_window": 12,
+      "median_likes": 426.5,
+      "median_likes_plus_comments": 467.5,
+      "observed_sample_interaction_ratio_percent": 0.5647567619806956,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DeAtV0nmZ06/",
+          "timestamp_utc": "2026-10-02T23:52:43+00:00",
+          "likes": 278,
+          "comments": 38,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAfTAliBkA/",
+          "timestamp_utc": "2026-10-02T21:50:00+00:00",
+          "likes": 231,
+          "comments": 28,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd-E6UwGV2g/",
+          "timestamp_utc": "2026-10-01T23:20:57+00:00",
+          "likes": 442,
+          "comments": 46,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9z-fKkpmv/",
+          "timestamp_utc": "2026-10-01T20:52:58+00:00",
+          "likes": 250,
+          "comments": 16,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9zs5jSzfO/",
+          "timestamp_utc": "2026-10-01T20:51:03+00:00",
+          "likes": 257,
+          "comments": 30,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd7Sw_gktSj/",
+          "timestamp_utc": "2026-09-30T21:24:17+00:00",
+          "likes": 411,
+          "comments": 36,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd5HKx_mhza/",
+          "timestamp_utc": "2026-09-30T01:04:28+00:00",
+          "likes": 537,
+          "comments": 57,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4yVUXEiMm/",
+          "timestamp_utc": "2026-09-29T22:02:25+00:00",
+          "likes": 772,
+          "comments": 74,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4yFEHyDN1/",
+          "timestamp_utc": "2026-09-29T22:00:53+00:00",
+          "likes": 387,
+          "comments": 24,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd2RKYkARgq/",
+          "timestamp_utc": "2026-09-28T22:34:05+00:00",
+          "likes": 773,
+          "comments": 56,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd2CldckoVk/",
+          "timestamp_utc": "2026-09-28T20:26:42+00:00",
+          "likes": 1490,
+          "comments": 87,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdzypUOmTf2/",
+          "timestamp_utc": "2026-09-27T23:28:56+00:00",
+          "likes": 1070,
+          "comments": 58,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned Instagram post: 2 Oct 2026. All 12 returned posts fall within the 30-day window: median 426.5 likes and 467.5 likes + comments (0.56% of observed followers). Mixed post ages and unknown reach limit interpretation; no income inferred.",
+  "limitations": "82,779 observed Instagram followers. Remote rendered text shows rounded 101K likes; exact count, primary AI flag and subscription price unresolved. Direct terminal HTTP and local Chrome returned 404 while remote rendered retrievals supplied profile content. Present availability differs by retrieval route and remains conditional; neither deletion nor universal availability is established.",
+  "sources": [
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/yuna.moore/",
+      "note": "Successfully resolved provider profile; retrieval does not audit followers"
+    },
+    {
+      "label": "Creator-owned hub",
+      "url": "https://yunamooree.com/yunaamoore",
+      "note": ""
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/yunamoore",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

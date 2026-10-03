@@ -1,0 +1,78 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Aria Mehta",
+  "identity_assessment": "Strong",
+  "identity_route": "Creator Linktree directly links the exact Instagram handle and /ariamehta Fanvue destination. Its image also matches the primary Fanvue creator identifier.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 25823,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/_ariamehta_/",
+    "instagram_url": "https://www.instagram.com/_ariamehta_/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/ariamehta",
+    "handle": "ariamehta",
+    "display_name": "Aria✨",
+    "aggregate_likes": 25273,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫259890",
+    "raw_subscription_price": 1000,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 2,
+      "latest_returned_utc": "2026-04-10T23:32:45+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DW-Ds_FM1t-/",
+          "timestamp_utc": "2026-04-10T23:32:45+00:00",
+          "likes": 159,
+          "comments": 18,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DW4uqMhMosr/",
+          "timestamp_utc": "2026-04-08T21:51:23+00:00",
+          "likes": 120,
+          "comments": 13,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "The provider returned 2 timeline posts, latest 10 Apr 2026. No returned post is in the 30-day window. The sample does not prove an exhaustive chronology; active acquisition and present growth are unverified.",
+  "limitations": "25,823 current observed Instagram followers; only two returned timeline posts, latest 10 Apr 2026. Current audience stock does not prove current growth or active paid acquisition. South Asian reference, not an East Asian persona.",
+  "sources": [
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/_ariamehta_/",
+      "note": "Successfully resolved provider profile; retrieval does not audit followers"
+    },
+    {
+      "label": "Creator-owned hub",
+      "url": "https://linktr.ee/ariamehta",
+      "note": ""
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/ariamehta",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

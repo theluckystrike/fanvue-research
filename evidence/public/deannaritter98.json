@@ -1,0 +1,55 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Deanna Ritter",
+  "identity_assessment": "Matched identity; funnel gap",
+  "identity_route": "Same handle across primary Instagram and Fanvue; Bluesky creator links Beacons. Beacons page discoverable but fetch403; no outbound money-link chain extracted.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 651381,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/deannaritter98/",
+    "instagram_url": "https://www.instagram.com/deannaritter98/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/deannaritter98",
+    "handle": "deannaritter98",
+    "display_name": "Deanna Ritter",
+    "aggregate_likes": 6717,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫389835",
+    "raw_subscription_price": 1500,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Profile extraction returned no timeline posts. Posting recency and engagement were not established; an empty provider field is not evidence of inactivity.",
+  "limitations": "Matching Instagram/Fanvue handle and AI identity; Beacons fetch was blocked. Complete outbound funnel and revenue attribution remain unverified.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/deannaritter98",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/deannaritter98/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://beacons.ai/deannaritter98",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://web-cdn.bsky.app/profile/deannaritter98.bsky.social",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

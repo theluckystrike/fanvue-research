@@ -1,0 +1,55 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Joanne Kisses",
+  "identity_assessment": "Strong",
+  "identity_route": "Creator joannekisses.com links Fanvue /joanne; Fanvue bio links back to joannekisses.com. Older indexed Instagram bio points creator domain.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 874030,
+    "count_status": "dated third-party",
+    "source_url": "https://socialblade.com/instagram/user/joanne.kisses/realtime",
+    "instagram_url": "https://www.instagram.com/joanne.kisses/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/joanne",
+    "handle": "joanne",
+    "display_name": "Joanne",
+    "aggregate_likes": 197786,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫285619",
+    "raw_subscription_price": 1099,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Current posting activity remains unresolved alongside the unavailable live main count. The SocialBlade snapshot is dated evidence.",
+  "limitations": "874,030 is an indexed SocialBlade snapshot crawled roughly three weeks before research. Live Instagram providers reported restrictions; current count remains unverified.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/joanne",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/joanne.kisses/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://joannekisses.com/",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://socialblade.com/instagram/user/joanne.kisses/realtime",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

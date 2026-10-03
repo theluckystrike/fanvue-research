@@ -1,0 +1,60 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Aika Kittie",
+  "identity_assessment": "Strong",
+  "identity_route": "Current creator hub lists main and backup Instagram accounts. Backup @aikabunni has 3,448 followers and directly links /aikakittie, confirming a live social-to-Fanvue route.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 98000,
+    "count_status": "dated third-party",
+    "source_url": "https://wolipop.detik.com/foto-relationship/d-7777311/foto-influencer-ai-yang-dibanjiri-500-tawaran-kencan-untuk-valentine",
+    "instagram_url": "https://www.instagram.com/aikakittie/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/aikakittie",
+    "handle": "aikakittie",
+    "display_name": "AikaKittie",
+    "aggregate_likes": 31350,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫259630",
+    "raw_subscription_price": 999,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Current main-account activity is unresolved. The dated 98K headline and live 3,448-follower backup cannot establish the current main-account trajectory.",
+  "limitations": "98K is a February 2025 reported MAIN-account snapshot. Three providers did not return a usable current main profile. The live backup count is 3,448; historical reach must not be presented as today’s performance.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/aikakittie",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/aikakittie/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://link.me/aikakittie",
+      "note": ""
+    },
+    {
+      "label": "Historical Instagram count / AI report",
+      "url": "https://wolipop.detik.com/foto-relationship/d-7777311/foto-influencer-ai-yang-dibanjiri-500-tawaran-kencan-untuk-valentine",
+      "note": "13 Feb 2025: 98K; earnings mentioned there are unaudited and are not used here"
+    },
+    {
+      "label": "Live backup Instagram",
+      "url": "https://www.instagram.com/aikabunni/",
+      "note": "3,448 followers via current ScrapeCreators retrieval"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Reported earnings claims exist; actual Fanvue-only income and profit remain unverified. See the earnings audit."
+}

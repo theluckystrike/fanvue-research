@@ -1,0 +1,75 @@
+{
+  "note": "Retrieval metadata only. Linked local files are original fact summaries, not full raw HTTP responses.",
+  "observations": [
+    {
+      "key": "fanvue-creator-terms",
+      "url": "https://legal.fanvue.com/creator-terms.md",
+      "status": 200,
+      "bytes": 10648,
+      "retrieved_at": "2026-10-03T09:58:24.591612+00:00"
+    },
+    {
+      "key": "fanvue-creator-earnings",
+      "url": "https://legal.fanvue.com/creator-earnings-payouts.md",
+      "status": 200,
+      "bytes": 9334,
+      "retrieved_at": "2026-10-03T09:58:25.366698+00:00"
+    },
+    {
+      "key": "fanvue-community-guidelines",
+      "url": "https://legal.fanvue.com/community-guidelines.md",
+      "status": 200,
+      "bytes": 19350,
+      "retrieved_at": "2026-10-03T09:58:26.169514+00:00"
+    },
+    {
+      "key": "fanvue-subscription-guide",
+      "url": "https://help.fanvue.com/en/articles/16233102-subscription-pricing-retention-guide",
+      "status": 200,
+      "bytes": 88245,
+      "retrieved_at": "2026-10-03T09:58:27.749496+00:00"
+    },
+    {
+      "key": "fanvue-ppv-guide",
+      "url": "https://help.fanvue.com/en/articles/16237634-ppv-media-a-creator-s-strategy-guide",
+      "status": 200,
+      "bytes": 91089,
+      "retrieved_at": "2026-10-03T09:58:29.239795+00:00"
+    },
+    {
+      "key": "fanvue-kyc",
+      "url": "https://help.fanvue.com/en/articles/9539091-passing-kyc-and-creating-multiple-accounts-as-an-ai-creator",
+      "status": 200,
+      "bytes": 75820,
+      "retrieved_at": "2026-10-03T09:58:29.997982+00:00"
+    },
+    {
+      "key": "fanvue-subscription-price",
+      "url": "https://help.fanvue.com/en/articles/7860744-how-do-i-set-or-change-my-subscription-price",
+      "status": 200,
+      "bytes": 69741,
+      "retrieved_at": "2026-10-03T09:58:31.436201+00:00"
+    },
+    {
+      "key": "fanvue-payout-fees",
+      "url": "https://help.fanvue.com/en/articles/14707946-payout-fees-on-fanvue",
+      "status": 200,
+      "bytes": 65168,
+      "retrieved_at": "2026-10-03T09:58:32.905784+00:00"
+    },
+    {
+      "key": "meta-ai-labeling",
+      "url": "https://about.fb.com/news/2024/04/metas-approach-to-labeling-ai-generated-content-and-manipulated-media/",
+      "status": 200,
+      "bytes": 351478,
+      "retrieved_at": "2026-10-03T09:58:36.301793+00:00"
+    },
+    {
+      "key": "tiktok-ai-support",
+      "url": "https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content",
+      "status": 200,
+      "bytes": 35550,
+      "retrieved_at": "2026-10-03T09:58:37.254804+00:00"
+    }
+  ]
+}

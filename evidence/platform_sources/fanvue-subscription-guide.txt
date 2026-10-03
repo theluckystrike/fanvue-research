@@ -1,0 +1,7 @@
+# Pricing and retention guidance
+
+Source: https://help.fanvue.com/en/articles/16233102-subscription-pricing-retention-guide
+
+Retrieved 3 October 2026. Original research fact summary; not a full source archive.
+
+Dated 10 August 2026. The platform suggests $9.99–$15 subscription pricing and discusses roughly 10% subscription revenue and 60% paid-message revenue in early months, plus 40% retention at 30 days and 25% at 90 days. These are platform aggregates without a published sample or AI-specific methodology; they are not predictions for the reference accounts.

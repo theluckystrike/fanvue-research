@@ -1,0 +1,55 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Aitana Lopez",
+  "identity_assessment": "Strong",
+  "identity_route": "Official Fanvue self-description names The Clueless; Instagram bio names same agency. Current IG bio links course + YouTube, not Fanvue.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 404155,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/fit_aitana/",
+    "instagram_url": "https://www.instagram.com/fit_aitana/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/fit_aitana",
+    "handle": "fit_aitana",
+    "display_name": "Aitana Lopez",
+    "aggregate_likes": 42077,
+    "is_ai_creator": true,
+    "is_sfw_creator": true,
+    "localized_subscription_display": "₫389835",
+    "raw_subscription_price": 1500,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Profile extraction returned no timeline posts. Posting recency and engagement were not established; an empty provider field is not evidence of inactivity.",
+  "limitations": "Current Instagram bio sends users to an AI course and YouTube, not Fanvue. Current Fanvue is SFW: it demonstrates creator subscriptions, not a proven explicit-content offer.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/fit_aitana",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/fit_aitana/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://www.theclueless.ai/",
+      "note": ""
+    },
+    {
+      "label": "Creator / corroboration source",
+      "url": "https://time.com/6993650/ai-generated-women-miss-ai-beauty-pageant-contestants/",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Reported earnings claims exist; actual Fanvue-only income and profit remain unverified. See the earnings audit."
+}

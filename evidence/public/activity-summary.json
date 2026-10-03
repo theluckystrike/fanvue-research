@@ -1,0 +1,938 @@
+{
+  "lumiraex": {
+    "tiktok": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-03T02:17:35+00:00",
+      "posts_in_30_day_window": 12,
+      "median_likes": 1459.0,
+      "median_likes_plus_comments": 1497.0,
+      "observed_sample_interaction_ratio_percent": 0.48951003217621053,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692259934804643104",
+          "timestamp_utc": "2026-10-03T02:17:35+00:00",
+          "likes": 968,
+          "comments": 37,
+          "views": 7743,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692171285006191905",
+          "timestamp_utc": "2026-10-02T20:33:14+00:00",
+          "likes": 1543,
+          "comments": 43,
+          "views": 13500,
+          "shares": 33
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692087623933906208",
+          "timestamp_utc": "2026-10-02T15:08:36+00:00",
+          "likes": 715,
+          "comments": 17,
+          "views": 9445,
+          "shares": 17
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692046944801148193",
+          "timestamp_utc": "2026-10-02T12:30:44+00:00",
+          "likes": 2255,
+          "comments": 49,
+          "views": 20500,
+          "shares": 60
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692020436187548960",
+          "timestamp_utc": "2026-10-02T10:47:54+00:00",
+          "likes": 1658,
+          "comments": 45,
+          "views": 17300,
+          "shares": 35
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691871297587924257",
+          "timestamp_utc": "2026-10-02T01:09:30+00:00",
+          "likes": 931,
+          "comments": 36,
+          "views": 13600,
+          "shares": 6
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691819999010376993",
+          "timestamp_utc": "2026-10-01T21:50:09+00:00",
+          "likes": 1157,
+          "comments": 30,
+          "views": 13800,
+          "shares": 24
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691741354317188385",
+          "timestamp_utc": "2026-10-01T16:44:55+00:00",
+          "likes": 1158,
+          "comments": 27,
+          "views": 14200,
+          "shares": 9
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691711393476758817",
+          "timestamp_utc": "2026-10-01T14:48:39+00:00",
+          "likes": 1375,
+          "comments": 33,
+          "views": 20100,
+          "shares": 10
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691668669889367328",
+          "timestamp_utc": "2026-10-01T12:02:54+00:00",
+          "likes": 2491,
+          "comments": 70,
+          "views": 42600,
+          "shares": 27
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691516695097167137",
+          "timestamp_utc": "2026-10-01T02:13:46+00:00",
+          "likes": 6209,
+          "comments": 121,
+          "views": 48500,
+          "shares": 246
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691472536583818529",
+          "timestamp_utc": "2026-09-30T23:21:52+00:00",
+          "likes": 1782,
+          "comments": 49,
+          "views": 20100,
+          "shares": 26
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "ms-meiling-xxx": {
+    "instagram": {
+      "returned_unique_posts": 10,
+      "latest_returned_utc": "2026-10-02T21:42:33+00:00",
+      "posts_in_30_day_window": 3,
+      "median_likes": 329,
+      "median_likes_plus_comments": 365,
+      "observed_sample_interaction_ratio_percent": 1.0070632380531952,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DRiGnGEiHKR/",
+          "timestamp_utc": "2025-11-26T20:20:20+00:00",
+          "likes": 5478,
+          "comments": 203,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DVHSTFAiD_K/",
+          "timestamp_utc": "2026-02-23T20:28:36+00:00",
+          "likes": 3027,
+          "comments": 143,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAebyroMY8/",
+          "timestamp_utc": "2026-10-02T21:42:33+00:00",
+          "likes": 164,
+          "comments": 30,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdzU2bbRGgL/",
+          "timestamp_utc": "2026-09-27T19:08:38+00:00",
+          "likes": 345,
+          "comments": 35,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DduDDo2xAzg/",
+          "timestamp_utc": "2026-09-25T17:56:57+00:00",
+          "likes": 329,
+          "comments": 36,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcbkYidId0z/",
+          "timestamp_utc": "2026-08-24T17:11:13+00:00",
+          "likes": 478,
+          "comments": 48,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcRTBN7IUSr/",
+          "timestamp_utc": "2026-08-20T17:27:05+00:00",
+          "likes": 458,
+          "comments": 37,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcOiooloT0z/",
+          "timestamp_utc": "2026-08-19T15:45:49+00:00",
+          "likes": 916,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Db6B6vOMa36/",
+          "timestamp_utc": "2026-08-11T16:35:05+00:00",
+          "likes": 470,
+          "comments": 44,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbgUAecIaSu/",
+          "timestamp_utc": "2026-08-01T16:52:56+00:00",
+          "likes": 464,
+          "comments": 35,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "aikakittie": {},
+  "amelia_ravenna": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-09-12T09:41:48+00:00",
+      "posts_in_30_day_window": 1,
+      "median_likes": 461,
+      "median_likes_plus_comments": 504,
+      "observed_sample_interaction_ratio_percent": 2.8281241232254084,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DWmJSBoCZb7/",
+          "timestamp_utc": "2026-04-01T16:37:38+00:00",
+          "likes": 2845,
+          "comments": 140,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DWovWJrCb0I/",
+          "timestamp_utc": "2026-04-02T16:48:44+00:00",
+          "likes": 2044,
+          "comments": 92,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DXE8CXOCaLC/",
+          "timestamp_utc": "2026-04-13T15:38:22+00:00",
+          "likes": 4416,
+          "comments": 150,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DdLsEF5IJxz/",
+          "timestamp_utc": "2026-09-12T09:41:48+00:00",
+          "likes": 461,
+          "comments": 43,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DctJBTAJDOo/",
+          "timestamp_utc": "2026-08-31T12:58:25+00:00",
+          "likes": 358,
+          "comments": 34,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcgeD6Ct_oS/",
+          "timestamp_utc": "2026-08-26T14:52:09+00:00",
+          "likes": 572,
+          "comments": 39,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcIwnCiz93b/",
+          "timestamp_utc": "2026-08-17T09:52:28+00:00",
+          "likes": 366,
+          "comments": 27,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbXpd_bxIIw/",
+          "timestamp_utc": "2026-07-29T08:07:16+00:00",
+          "likes": 256,
+          "comments": 28,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbSuUIAiS-H/",
+          "timestamp_utc": "2026-07-27T10:13:22+00:00",
+          "likes": 427,
+          "comments": 41,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbNmSO-EVUn/",
+          "timestamp_utc": "2026-07-25T10:27:00+00:00",
+          "likes": 354,
+          "comments": 39,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbIViLxEbjl/",
+          "timestamp_utc": "2026-07-23T09:24:26+00:00",
+          "likes": 394,
+          "comments": 40,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbF6WDpiRU7/",
+          "timestamp_utc": "2026-07-22T10:48:22+00:00",
+          "likes": 587,
+          "comments": 56,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "ai_hiyo_": {
+    "tiktok": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-05-17T11:48:46+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7640826328379362576",
+          "timestamp_utc": "2026-05-17T11:48:46+00:00",
+          "likes": 146,
+          "comments": 6,
+          "views": 3378,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7637300376563207440",
+          "timestamp_utc": "2026-05-07T23:47:58+00:00",
+          "likes": 210,
+          "comments": 6,
+          "views": 3512,
+          "shares": 5
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7634908711374392592",
+          "timestamp_utc": "2026-05-01T13:05:57+00:00",
+          "likes": 111,
+          "comments": 2,
+          "views": 3797,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7628142615426288912",
+          "timestamp_utc": "2026-04-13T07:29:54+00:00",
+          "likes": 133,
+          "comments": 5,
+          "views": 3334,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7603850592628280577",
+          "timestamp_utc": "2026-02-06T20:24:52+00:00",
+          "likes": 216,
+          "comments": 13,
+          "views": 5630,
+          "shares": 8
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7597656379331054849",
+          "timestamp_utc": "2026-01-21T03:47:22+00:00",
+          "likes": 394,
+          "comments": 8,
+          "views": 4274,
+          "shares": 8
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7597291169176898817",
+          "timestamp_utc": "2026-01-20T04:11:30+00:00",
+          "likes": 345,
+          "comments": 9,
+          "views": 5560,
+          "shares": 11
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7553676857892293889",
+          "timestamp_utc": "2025-09-24T15:24:22+00:00",
+          "likes": 260,
+          "comments": 10,
+          "views": 4731,
+          "shares": 10
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7552680374053227777",
+          "timestamp_utc": "2025-09-21T22:58:35+00:00",
+          "likes": 224,
+          "comments": 10,
+          "views": 4905,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7549676997119659265",
+          "timestamp_utc": "2025-09-13T20:43:35+00:00",
+          "likes": 392,
+          "comments": 9,
+          "views": 8642,
+          "shares": 6
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7548442808600808721",
+          "timestamp_utc": "2025-09-10T12:53:37+00:00",
+          "likes": 526,
+          "comments": 19,
+          "views": 8066,
+          "shares": 26
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7535323718428429569",
+          "timestamp_utc": "2025-08-06T04:24:45+00:00",
+          "likes": 278,
+          "comments": 21,
+          "views": 6998,
+          "shares": 5
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "gene_aji": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2025-06-09T15:10:43+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DKr0CmvJh_1/",
+          "timestamp_utc": "2025-06-09T15:10:43+00:00",
+          "likes": 25,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKhestRJqAw/",
+          "timestamp_utc": "2025-06-05T14:51:49+00:00",
+          "likes": 17,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKeL-xwRaBu/",
+          "timestamp_utc": "2025-06-04T08:10:33+00:00",
+          "likes": 18,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKcZ6Vvp4uj/",
+          "timestamp_utc": "2025-06-03T15:33:47+00:00",
+          "likes": 20,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKHuN2TpfKZ/",
+          "timestamp_utc": "2025-05-26T14:47:10+00:00",
+          "likes": 20,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKEFtgDJ8lR/",
+          "timestamp_utc": "2025-05-25T04:55:30+00:00",
+          "likes": 9,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJ8sWulRn_r/",
+          "timestamp_utc": "2025-05-22T07:59:15+00:00",
+          "likes": 11,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJ2yvxVSOUe/",
+          "timestamp_utc": "2025-05-20T00:59:40+00:00",
+          "likes": 15,
+          "comments": 2,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJzGu6RpJZi/",
+          "timestamp_utc": "2025-05-18T14:37:21+00:00",
+          "likes": 28,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJvCWi9ygJl/",
+          "timestamp_utc": "2025-05-17T00:42:06+00:00",
+          "likes": 13,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJtrxh6p47v/",
+          "timestamp_utc": "2025-05-16T12:05:34+00:00",
+          "likes": 19,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJtroZ1prfi/",
+          "timestamp_utc": "2025-05-16T12:04:19+00:00",
+          "likes": 13,
+          "comments": 0,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    },
+    "tiktok": {
+      "returned_unique_posts": 11,
+      "latest_returned_utc": "2026-04-04T13:49:52+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7624900754725260560",
+          "timestamp_utc": "2026-04-04T13:49:52+00:00",
+          "likes": 80,
+          "comments": 4,
+          "views": 1949,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7576311573057162513",
+          "timestamp_utc": "2025-11-24T15:19:47+00:00",
+          "likes": 36,
+          "comments": 7,
+          "views": 1005,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7560718949030087957",
+          "timestamp_utc": "2025-10-13T14:51:30+00:00",
+          "likes": 60,
+          "comments": 10,
+          "views": 1314,
+          "shares": 2
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556988546280688916",
+          "timestamp_utc": "2025-10-03T13:35:13+00:00",
+          "likes": 61,
+          "comments": 4,
+          "views": 1541,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556963413239368980",
+          "timestamp_utc": "2025-10-03T11:57:42+00:00",
+          "likes": 62,
+          "comments": 4,
+          "views": 1258,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556761264798698760",
+          "timestamp_utc": "2025-10-02T22:53:42+00:00",
+          "likes": 98,
+          "comments": 11,
+          "views": 1995,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7547026499526872340",
+          "timestamp_utc": "2025-09-06T17:17:46+00:00",
+          "likes": 141,
+          "comments": 15,
+          "views": 2097,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543146167714991361",
+          "timestamp_utc": "2025-08-27T06:19:53+00:00",
+          "likes": 364,
+          "comments": 46,
+          "views": 9043,
+          "shares": 4
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543126885161553153",
+          "timestamp_utc": "2025-08-27T05:05:01+00:00",
+          "likes": 18,
+          "comments": 2,
+          "views": 1633,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543048783458848020",
+          "timestamp_utc": "2025-08-27T00:01:56+00:00",
+          "likes": 72,
+          "comments": 9,
+          "views": 2483,
+          "shares": 2
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7542683602186784007",
+          "timestamp_utc": "2025-08-26T00:25:17+00:00",
+          "likes": 78,
+          "comments": 7,
+          "views": 1791,
+          "shares": 3
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "ariamehta": {
+    "instagram": {
+      "returned_unique_posts": 2,
+      "latest_returned_utc": "2026-04-10T23:32:45+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DW-Ds_FM1t-/",
+          "timestamp_utc": "2026-04-10T23:32:45+00:00",
+          "likes": 159,
+          "comments": 18,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DW4uqMhMosr/",
+          "timestamp_utc": "2026-04-08T21:51:23+00:00",
+          "likes": 120,
+          "comments": 13,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "yunamoore": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-02T23:52:43+00:00",
+      "posts_in_30_day_window": 12,
+      "median_likes": 426.5,
+      "median_likes_plus_comments": 467.5,
+      "observed_sample_interaction_ratio_percent": 0.5647567619806956,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DeAtV0nmZ06/",
+          "timestamp_utc": "2026-10-02T23:52:43+00:00",
+          "likes": 278,
+          "comments": 38,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAfTAliBkA/",
+          "timestamp_utc": "2026-10-02T21:50:00+00:00",
+          "likes": 231,
+          "comments": 28,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd-E6UwGV2g/",
+          "timestamp_utc": "2026-10-01T23:20:57+00:00",
+          "likes": 442,
+          "comments": 46,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9z-fKkpmv/",
+          "timestamp_utc": "2026-10-01T20:52:58+00:00",
+          "likes": 250,
+          "comments": 16,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9zs5jSzfO/",
+          "timestamp_utc": "2026-10-01T20:51:03+00:00",
+          "likes": 257,
+          "comments": 30,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd7Sw_gktSj/",
+          "timestamp_utc": "2026-09-30T21:24:17+00:00",
+          "likes": 411,
+          "comments": 36,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd5HKx_mhza/",
+          "timestamp_utc": "2026-09-30T01:04:28+00:00",
+          "likes": 537,
+          "comments": 57,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4yVUXEiMm/",
+          "timestamp_utc": "2026-09-29T22:02:25+00:00",
+          "likes": 772,
+          "comments": 74,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4yFEHyDN1/",
+          "timestamp_utc": "2026-09-29T22:00:53+00:00",
+          "likes": 387,
+          "comments": 24,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd2RKYkARgq/",
+          "timestamp_utc": "2026-09-28T22:34:05+00:00",
+          "likes": 773,
+          "comments": 56,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd2CldckoVk/",
+          "timestamp_utc": "2026-09-28T20:26:42+00:00",
+          "likes": 1490,
+          "comments": 87,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdzypUOmTf2/",
+          "timestamp_utc": "2026-09-27T23:28:56+00:00",
+          "likes": 1070,
+          "comments": 58,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "deannaritter98": {},
+  "fit_aitana": {},
+  "alexisivyedge": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-02T18:24:47+00:00",
+      "posts_in_30_day_window": 12,
+      "median_likes": 555.5,
+      "median_likes_plus_comments": 595.0,
+      "observed_sample_interaction_ratio_percent": 0.18853934293246805,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DeAHz7ilvqn/",
+          "timestamp_utc": "2026-10-02T18:24:47+00:00",
+          "likes": 195,
+          "comments": 14,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd-F8N3uZjF/",
+          "timestamp_utc": "2026-10-01T23:31:19+00:00",
+          "likes": 308,
+          "comments": 33,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd60qVhhnjV/",
+          "timestamp_utc": "2026-09-30T17:02:18+00:00",
+          "likes": 318,
+          "comments": 22,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd16z4eFvci/",
+          "timestamp_utc": "2026-09-28T19:18:46+00:00",
+          "likes": 729,
+          "comments": 42,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdzKqWFh7P2/",
+          "timestamp_utc": "2026-09-27T17:40:18+00:00",
+          "likes": 363,
+          "comments": 20,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Ddw09eFljJ-/",
+          "timestamp_utc": "2026-09-26T19:51:27+00:00",
+          "likes": 4341,
+          "comments": 285,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Ddt0lTvDkAt/",
+          "timestamp_utc": "2026-09-25T15:50:26+00:00",
+          "likes": 630,
+          "comments": 49,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdpwLhROw_M/",
+          "timestamp_utc": "2026-09-24T01:55:44+00:00",
+          "likes": 446,
+          "comments": 29,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdmH1qaDteO/",
+          "timestamp_utc": "2026-09-22T16:04:45+00:00",
+          "likes": 719,
+          "comments": 48,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Ddhb3V1AcFn/",
+          "timestamp_utc": "2026-09-20T20:23:33+00:00",
+          "likes": 796,
+          "comments": 40,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdezCA-BhNu/",
+          "timestamp_utc": "2026-09-19T19:49:08+00:00",
+          "likes": 481,
+          "comments": 30,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdZW69bx4B-/",
+          "timestamp_utc": "2026-09-17T17:08:44+00:00",
+          "likes": 855,
+          "comments": 38,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "hotgirlcinnamon99": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-03T06:57:37+00:00",
+      "posts_in_30_day_window": 9,
+      "median_likes": 294,
+      "median_likes_plus_comments": 358,
+      "observed_sample_interaction_ratio_percent": 0.14952115640831806,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DWghSFIDEvH/",
+          "timestamp_utc": "2026-03-30T12:12:15+00:00",
+          "likes": 13302,
+          "comments": 864,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DU6nP1cjJrF/",
+          "timestamp_utc": "2026-02-18T22:21:54+00:00",
+          "likes": 30594,
+          "comments": 789,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DN3amijWM4f/",
+          "timestamp_utc": "2025-08-27T16:53:46+00:00",
+          "likes": 113122,
+          "comments": 3691,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DeBd6MJMOmx/",
+          "timestamp_utc": "2026-10-03T06:57:37+00:00",
+          "likes": 46,
+          "comments": 21,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAVQJkstlK/",
+          "timestamp_utc": "2026-10-02T20:22:50+00:00",
+          "likes": 97,
+          "comments": 23,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd_u_-YMtch/",
+          "timestamp_utc": "2026-10-02T14:48:30+00:00",
+          "likes": 294,
+          "comments": 64,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd-266xsoG8/",
+          "timestamp_utc": "2026-10-02T06:38:35+00:00",
+          "likes": 347,
+          "comments": 59,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd9c1OgsbBV/",
+          "timestamp_utc": "2026-10-01T17:31:09+00:00",
+          "likes": 281,
+          "comments": 56,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd7UAo1MHfe/",
+          "timestamp_utc": "2026-09-30T21:35:44+00:00",
+          "likes": 415,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd6rv7oMUbI/",
+          "timestamp_utc": "2026-09-30T15:43:44+00:00",
+          "likes": 251,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd5pzcgMAd9/",
+          "timestamp_utc": "2026-09-30T06:07:39+00:00",
+          "likes": 623,
+          "comments": 75,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Dd4OwvVMq_B/",
+          "timestamp_utc": "2026-09-29T16:52:12+00:00",
+          "likes": 314,
+          "comments": 76,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "joanne": {}
+}

@@ -1,0 +1,139 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Meiling The Asian Doll",
+  "identity_assessment": "Matched persona + creator hub",
+  "identity_route": "Live Instagram bio self-identifies an Asian-American AI girl and links the creator Google Sites hub. Fanvue self-identifies the same Asian-American AI doll.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 36244,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/meiling.doll.ai/",
+    "instagram_url": "https://www.instagram.com/meiling.doll.ai/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/ms-meiling-xxx",
+    "handle": "ms-meiling-xxx",
+    "display_name": "Meiling The Asian Doll",
+    "aggregate_likes": 17087,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫363586",
+    "raw_subscription_price": 1399,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 10,
+      "latest_returned_utc": "2026-10-02T21:42:33+00:00",
+      "posts_in_30_day_window": 3,
+      "median_likes": 329,
+      "median_likes_plus_comments": 365,
+      "observed_sample_interaction_ratio_percent": 1.0070632380531952,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DRiGnGEiHKR/",
+          "timestamp_utc": "2025-11-26T20:20:20+00:00",
+          "likes": 5478,
+          "comments": 203,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DVHSTFAiD_K/",
+          "timestamp_utc": "2026-02-23T20:28:36+00:00",
+          "likes": 3027,
+          "comments": 143,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DeAebyroMY8/",
+          "timestamp_utc": "2026-10-02T21:42:33+00:00",
+          "likes": 164,
+          "comments": 30,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DdzU2bbRGgL/",
+          "timestamp_utc": "2026-09-27T19:08:38+00:00",
+          "likes": 345,
+          "comments": 35,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DduDDo2xAzg/",
+          "timestamp_utc": "2026-09-25T17:56:57+00:00",
+          "likes": 329,
+          "comments": 36,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcbkYidId0z/",
+          "timestamp_utc": "2026-08-24T17:11:13+00:00",
+          "likes": 478,
+          "comments": 48,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcRTBN7IUSr/",
+          "timestamp_utc": "2026-08-20T17:27:05+00:00",
+          "likes": 458,
+          "comments": 37,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcOiooloT0z/",
+          "timestamp_utc": "2026-08-19T15:45:49+00:00",
+          "likes": 916,
+          "comments": 51,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/Db6B6vOMa36/",
+          "timestamp_utc": "2026-08-11T16:35:05+00:00",
+          "likes": 470,
+          "comments": 44,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbgUAecIaSu/",
+          "timestamp_utc": "2026-08-01T16:52:56+00:00",
+          "likes": 464,
+          "comments": 35,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned Instagram post: 2 Oct 2026. After deduplicating and excluding old posts, 3 returned posts lie in the 30-day window: median 329 likes and 365 likes + comments (1.01% of observed followers). Small sample; mixed post ages.",
+  "limitations": "36,244 current Instagram followers. IQFluence lists 37K and engagement estimates from September; those estimates are not reproduced as live verified analytics.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/ms-meiling-xxx",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/meiling.doll.ai/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://sites.google.com/view/meilingdoll",
+      "note": ""
+    },
+    {
+      "label": "Independent directory cross-check",
+      "url": "https://iqfluence.io/public/top-influencers/fanvue-creators",
+      "note": "9 Sep 2026 listing; 37K, not substituted for current API count"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

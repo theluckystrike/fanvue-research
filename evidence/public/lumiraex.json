@@ -1,0 +1,160 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Lumirae",
+  "identity_assessment": "Strong",
+  "identity_route": "Live TikTok bio links linkz.boo/lumirae. That public hub explicitly sets its destination to fanvue.com/lumiraex. Primary Fanvue bio states Korean persona and AI flag true.",
+  "social": {
+    "platform": "TikTok",
+    "followers": 305816,
+    "count_status": "current API",
+    "source_url": "https://www.tiktok.com/@lumirae_xo",
+    "instagram_url": null,
+    "tiktok_url": "https://www.tiktok.com/@lumirae_xo",
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/lumiraex",
+    "handle": "lumiraex",
+    "display_name": "Lumirae",
+    "aggregate_likes": 5485,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫363586",
+    "raw_subscription_price": 1399,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "tiktok": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-10-03T02:17:35+00:00",
+      "posts_in_30_day_window": 12,
+      "median_likes": 1459.0,
+      "median_likes_plus_comments": 1497.0,
+      "observed_sample_interaction_ratio_percent": 0.48951003217621053,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692259934804643104",
+          "timestamp_utc": "2026-10-03T02:17:35+00:00",
+          "likes": 968,
+          "comments": 37,
+          "views": 7743,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692171285006191905",
+          "timestamp_utc": "2026-10-02T20:33:14+00:00",
+          "likes": 1543,
+          "comments": 43,
+          "views": 13500,
+          "shares": 33
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692087623933906208",
+          "timestamp_utc": "2026-10-02T15:08:36+00:00",
+          "likes": 715,
+          "comments": 17,
+          "views": 9445,
+          "shares": 17
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692046944801148193",
+          "timestamp_utc": "2026-10-02T12:30:44+00:00",
+          "likes": 2255,
+          "comments": 49,
+          "views": 20500,
+          "shares": 60
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7692020436187548960",
+          "timestamp_utc": "2026-10-02T10:47:54+00:00",
+          "likes": 1658,
+          "comments": 45,
+          "views": 17300,
+          "shares": 35
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691871297587924257",
+          "timestamp_utc": "2026-10-02T01:09:30+00:00",
+          "likes": 931,
+          "comments": 36,
+          "views": 13600,
+          "shares": 6
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691819999010376993",
+          "timestamp_utc": "2026-10-01T21:50:09+00:00",
+          "likes": 1157,
+          "comments": 30,
+          "views": 13800,
+          "shares": 24
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691741354317188385",
+          "timestamp_utc": "2026-10-01T16:44:55+00:00",
+          "likes": 1158,
+          "comments": 27,
+          "views": 14200,
+          "shares": 9
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691711393476758817",
+          "timestamp_utc": "2026-10-01T14:48:39+00:00",
+          "likes": 1375,
+          "comments": 33,
+          "views": 20100,
+          "shares": 10
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691668669889367328",
+          "timestamp_utc": "2026-10-01T12:02:54+00:00",
+          "likes": 2491,
+          "comments": 70,
+          "views": 42600,
+          "shares": 27
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691516695097167137",
+          "timestamp_utc": "2026-10-01T02:13:46+00:00",
+          "likes": 6209,
+          "comments": 121,
+          "views": 48500,
+          "shares": 246
+        },
+        {
+          "url": "https://www.tiktok.com/@lumirae_xo/video/7691472536583818529",
+          "timestamp_utc": "2026-09-30T23:21:52+00:00",
+          "likes": 1782,
+          "comments": 49,
+          "views": 20100,
+          "shares": 26
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned TikTok video: 3 Oct 2026. All 12 returned videos fall within the 30-day window, spanning 30 Sep–3 Oct. Median views: 15,750; median likes: 1,459. This is a small sample of differently aged posts, not an audited growth rate or earnings evidence.",
+  "limitations": "Large current TikTok audience and recent posting observed. Neither the 5,485 Fanvue likes nor 305,816 followers establish payments or earnings; follower quality and whole-feed AI consistency unmeasured.",
+  "sources": [
+    {
+      "label": "Social profile",
+      "url": "https://www.tiktok.com/@lumirae_xo",
+      "note": "Successfully resolved provider profile; retrieval does not audit followers"
+    },
+    {
+      "label": "Creator-owned hub",
+      "url": "https://linkz.boo/lumirae",
+      "note": ""
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/lumiraex",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

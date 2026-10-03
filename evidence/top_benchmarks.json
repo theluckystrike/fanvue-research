@@ -1,0 +1,482 @@
+{
+  "research_date": "3 October 2026",
+  "note": "Public benchmark evidence summaries. No raw provider responses or verified financial statements.",
+  "records": [
+    {
+      "research_date": "3 October 2026",
+      "persona": "Deanna Ritter",
+      "identity_assessment": "Matched identity; funnel gap",
+      "identity_route": "Same handle across primary Instagram and Fanvue; Bluesky creator links Beacons. Beacons page discoverable but fetch403; no outbound money-link chain extracted.",
+      "social": {
+        "platform": "Instagram",
+        "followers": 651381,
+        "count_status": "current API",
+        "source_url": "https://www.instagram.com/deannaritter98/",
+        "instagram_url": "https://www.instagram.com/deannaritter98/",
+        "tiktok_url": null,
+        "additional_instagram_followers": null,
+        "additional_tiktok_followers": null
+      },
+      "fanvue": {
+        "url": "https://www.fanvue.com/deannaritter98",
+        "handle": "deannaritter98",
+        "display_name": "Deanna Ritter",
+        "aggregate_likes": 6717,
+        "is_ai_creator": true,
+        "is_sfw_creator": false,
+        "localized_subscription_display": "₫389835",
+        "raw_subscription_price": 1500,
+        "raw_currency_verified": false,
+        "aggregate_likes_display": null
+      },
+      "activity": {},
+      "activity_note": "Profile extraction returned no timeline posts. Posting recency and engagement were not established; an empty provider field is not evidence of inactivity.",
+      "limitations": "Matching Instagram/Fanvue handle and AI identity; Beacons fetch was blocked. Complete outbound funnel and revenue attribution remain unverified.",
+      "sources": [
+        {
+          "label": "Primary Fanvue profile",
+          "url": "https://www.fanvue.com/deannaritter98",
+          "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+        },
+        {
+          "label": "Social profile",
+          "url": "https://www.instagram.com/deannaritter98/",
+          "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+        },
+        {
+          "label": "Creator link hub / website",
+          "url": "https://beacons.ai/deannaritter98",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://web-cdn.bsky.app/profile/deannaritter98.bsky.social",
+          "note": ""
+        }
+      ],
+      "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included."
+    },
+    {
+      "research_date": "3 October 2026",
+      "persona": "Aitana Lopez",
+      "identity_assessment": "Strong",
+      "identity_route": "Official Fanvue self-description names The Clueless; Instagram bio names same agency. Current IG bio links course + YouTube, not Fanvue.",
+      "social": {
+        "platform": "Instagram",
+        "followers": 404155,
+        "count_status": "current API",
+        "source_url": "https://www.instagram.com/fit_aitana/",
+        "instagram_url": "https://www.instagram.com/fit_aitana/",
+        "tiktok_url": null,
+        "additional_instagram_followers": null,
+        "additional_tiktok_followers": null
+      },
+      "fanvue": {
+        "url": "https://www.fanvue.com/fit_aitana",
+        "handle": "fit_aitana",
+        "display_name": "Aitana Lopez",
+        "aggregate_likes": 42077,
+        "is_ai_creator": true,
+        "is_sfw_creator": true,
+        "localized_subscription_display": "₫389835",
+        "raw_subscription_price": 1500,
+        "raw_currency_verified": false,
+        "aggregate_likes_display": null
+      },
+      "activity": {},
+      "activity_note": "Profile extraction returned no timeline posts. Posting recency and engagement were not established; an empty provider field is not evidence of inactivity.",
+      "limitations": "Current Instagram bio sends users to an AI course and YouTube, not Fanvue. Current Fanvue is SFW: it demonstrates creator subscriptions, not a proven explicit-content offer.",
+      "sources": [
+        {
+          "label": "Primary Fanvue profile",
+          "url": "https://www.fanvue.com/fit_aitana",
+          "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+        },
+        {
+          "label": "Social profile",
+          "url": "https://www.instagram.com/fit_aitana/",
+          "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+        },
+        {
+          "label": "Creator link hub / website",
+          "url": "https://www.theclueless.ai/",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://time.com/6993650/ai-generated-women-miss-ai-beauty-pageant-contestants/",
+          "note": ""
+        }
+      ],
+      "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included."
+    },
+    {
+      "research_date": "3 October 2026",
+      "persona": "Alexis Ivyedge",
+      "identity_assessment": "Matched identity; funnel gap",
+      "identity_route": "Same exact handle and name on IG and Fanvue; Instagram Linkme points Candy.ai currently, so active Instagram-to-Fanvue outbound chain not proven.",
+      "social": {
+        "platform": "Instagram",
+        "followers": 315584,
+        "count_status": "current API",
+        "source_url": "https://www.instagram.com/alexisivyedge/",
+        "instagram_url": "https://www.instagram.com/alexisivyedge/",
+        "tiktok_url": null,
+        "additional_instagram_followers": null,
+        "additional_tiktok_followers": null
+      },
+      "fanvue": {
+        "url": "https://www.fanvue.com/alexisivyedge",
+        "handle": "alexisivyedge",
+        "display_name": "Alexis Ivyedge",
+        "aggregate_likes": 29337,
+        "is_ai_creator": true,
+        "is_sfw_creator": false,
+        "localized_subscription_display": "₫259630",
+        "raw_subscription_price": 999,
+        "raw_currency_verified": false,
+        "aggregate_likes_display": null
+      },
+      "activity": {
+        "instagram": {
+          "returned_unique_posts": 12,
+          "latest_returned_utc": "2026-10-02T18:24:47+00:00",
+          "posts_in_30_day_window": 12,
+          "median_likes": 555.5,
+          "median_likes_plus_comments": 595.0,
+          "observed_sample_interaction_ratio_percent": 0.18853934293246805,
+          "window_start_utc": "2026-09-03T10:17:00+00:00",
+          "window_end_utc": "2026-10-03T10:17:00+00:00",
+          "posts": [
+            {
+              "url": "https://www.instagram.com/p/DeAHz7ilvqn/",
+              "timestamp_utc": "2026-10-02T18:24:47+00:00",
+              "likes": 195,
+              "comments": 14,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd-F8N3uZjF/",
+              "timestamp_utc": "2026-10-01T23:31:19+00:00",
+              "likes": 308,
+              "comments": 33,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd60qVhhnjV/",
+              "timestamp_utc": "2026-09-30T17:02:18+00:00",
+              "likes": 318,
+              "comments": 22,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd16z4eFvci/",
+              "timestamp_utc": "2026-09-28T19:18:46+00:00",
+              "likes": 729,
+              "comments": 42,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdzKqWFh7P2/",
+              "timestamp_utc": "2026-09-27T17:40:18+00:00",
+              "likes": 363,
+              "comments": 20,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Ddw09eFljJ-/",
+              "timestamp_utc": "2026-09-26T19:51:27+00:00",
+              "likes": 4341,
+              "comments": 285,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Ddt0lTvDkAt/",
+              "timestamp_utc": "2026-09-25T15:50:26+00:00",
+              "likes": 630,
+              "comments": 49,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdpwLhROw_M/",
+              "timestamp_utc": "2026-09-24T01:55:44+00:00",
+              "likes": 446,
+              "comments": 29,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdmH1qaDteO/",
+              "timestamp_utc": "2026-09-22T16:04:45+00:00",
+              "likes": 719,
+              "comments": 48,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Ddhb3V1AcFn/",
+              "timestamp_utc": "2026-09-20T20:23:33+00:00",
+              "likes": 796,
+              "comments": 40,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdezCA-BhNu/",
+              "timestamp_utc": "2026-09-19T19:49:08+00:00",
+              "likes": 481,
+              "comments": 30,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdZW69bx4B-/",
+              "timestamp_utc": "2026-09-17T17:08:44+00:00",
+              "likes": 855,
+              "comments": 38,
+              "pinned": false
+            }
+          ],
+          "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+        }
+      },
+      "activity_note": "Latest returned Instagram post: 2 Oct 2026. The 12 returned posts within the 30-day window have median 555.5 likes and 595 likes + comments (0.19% of observed followers). Unequal post ages and follower quality remain unmeasured.",
+      "limitations": "Current Instagram hub directs Exclusive Content to Candy.ai. A live Fanvue profile exists, but today’s visible acquisition route favors another destination.",
+      "sources": [
+        {
+          "label": "Primary Fanvue profile",
+          "url": "https://www.fanvue.com/alexisivyedge",
+          "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+        },
+        {
+          "label": "Social profile",
+          "url": "https://www.instagram.com/alexisivyedge/",
+          "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+        },
+        {
+          "label": "Creator link hub / website",
+          "url": "https://link.me/alexisivyedge",
+          "note": ""
+        }
+      ],
+      "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included."
+    },
+    {
+      "research_date": "3 October 2026",
+      "persona": "Cinnamon Dreams",
+      "identity_assessment": "Strong",
+      "identity_route": "Creator-owned therealcinnamondreams.com/join.html directly links official Instagram, TikTok and Fanvue. Fanvue name and AI label confirmed in primary profile.",
+      "social": {
+        "platform": "Instagram",
+        "followers": 239431,
+        "count_status": "current API",
+        "source_url": "https://www.instagram.com/therealcinnamondreams/",
+        "instagram_url": "https://www.instagram.com/therealcinnamondreams/",
+        "tiktok_url": "https://www.tiktok.com/@therealcinnamondreams",
+        "additional_instagram_followers": null,
+        "additional_tiktok_followers": 1652
+      },
+      "fanvue": {
+        "url": "https://www.fanvue.com/hotgirlcinnamon99",
+        "handle": "hotgirlcinnamon99",
+        "display_name": "Cinnamon Dreams",
+        "aggregate_likes": 86637,
+        "is_ai_creator": true,
+        "is_sfw_creator": false,
+        "localized_subscription_display": "₫311608",
+        "raw_subscription_price": 1199,
+        "raw_currency_verified": false,
+        "aggregate_likes_display": null
+      },
+      "activity": {
+        "instagram": {
+          "returned_unique_posts": 12,
+          "latest_returned_utc": "2026-10-03T06:57:37+00:00",
+          "posts_in_30_day_window": 9,
+          "median_likes": 294,
+          "median_likes_plus_comments": 358,
+          "observed_sample_interaction_ratio_percent": 0.14952115640831806,
+          "window_start_utc": "2026-09-03T10:17:00+00:00",
+          "window_end_utc": "2026-10-03T10:17:00+00:00",
+          "posts": [
+            {
+              "url": "https://www.instagram.com/p/DWghSFIDEvH/",
+              "timestamp_utc": "2026-03-30T12:12:15+00:00",
+              "likes": 13302,
+              "comments": 864,
+              "pinned": true
+            },
+            {
+              "url": "https://www.instagram.com/p/DU6nP1cjJrF/",
+              "timestamp_utc": "2026-02-18T22:21:54+00:00",
+              "likes": 30594,
+              "comments": 789,
+              "pinned": true
+            },
+            {
+              "url": "https://www.instagram.com/p/DN3amijWM4f/",
+              "timestamp_utc": "2025-08-27T16:53:46+00:00",
+              "likes": 113122,
+              "comments": 3691,
+              "pinned": true
+            },
+            {
+              "url": "https://www.instagram.com/p/DeBd6MJMOmx/",
+              "timestamp_utc": "2026-10-03T06:57:37+00:00",
+              "likes": 46,
+              "comments": 21,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DeAVQJkstlK/",
+              "timestamp_utc": "2026-10-02T20:22:50+00:00",
+              "likes": 97,
+              "comments": 23,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd_u_-YMtch/",
+              "timestamp_utc": "2026-10-02T14:48:30+00:00",
+              "likes": 294,
+              "comments": 64,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd-266xsoG8/",
+              "timestamp_utc": "2026-10-02T06:38:35+00:00",
+              "likes": 347,
+              "comments": 59,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd9c1OgsbBV/",
+              "timestamp_utc": "2026-10-01T17:31:09+00:00",
+              "likes": 281,
+              "comments": 56,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd7UAo1MHfe/",
+              "timestamp_utc": "2026-09-30T21:35:44+00:00",
+              "likes": 415,
+              "comments": 51,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd6rv7oMUbI/",
+              "timestamp_utc": "2026-09-30T15:43:44+00:00",
+              "likes": 251,
+              "comments": 51,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd5pzcgMAd9/",
+              "timestamp_utc": "2026-09-30T06:07:39+00:00",
+              "likes": 623,
+              "comments": 75,
+              "pinned": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dd4OwvVMq_B/",
+              "timestamp_utc": "2026-09-29T16:52:12+00:00",
+              "likes": 314,
+              "comments": 76,
+              "pinned": false
+            }
+          ],
+          "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+        }
+      },
+      "activity_note": "Latest returned Instagram post: 3 Oct 2026. The 9 returned posts within the 30-day window have median 294 likes and 358 likes + comments (0.15% of observed followers). A pinned Aug 2025 post has 113,122 likes; it does not describe typical recent performance.",
+      "limitations": "Instagram 239,431 versus linked TikTok 1,652. A strong identity chain and large Instagram audience do not establish paid subscriber counts or revenue.",
+      "sources": [
+        {
+          "label": "Primary Fanvue profile",
+          "url": "https://www.fanvue.com/hotgirlcinnamon99",
+          "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+        },
+        {
+          "label": "Social profile",
+          "url": "https://www.instagram.com/therealcinnamondreams/",
+          "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+        },
+        {
+          "label": "Creator link hub / website",
+          "url": "https://therealcinnamondreams.com/join.html",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://linktr.ee/therealcinnamondreams",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://linktr.ee/hotgirlcinnamon99",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://dfans.ai/therealcinnamondreams",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://therealcinnamondreams.com/story.html",
+          "note": ""
+        }
+      ],
+      "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included."
+    },
+    {
+      "research_date": "3 October 2026",
+      "persona": "Joanne Kisses",
+      "identity_assessment": "Strong",
+      "identity_route": "Creator joannekisses.com links Fanvue /joanne; Fanvue bio links back to joannekisses.com. Older indexed Instagram bio points creator domain.",
+      "social": {
+        "platform": "Instagram",
+        "followers": 874030,
+        "count_status": "dated third-party",
+        "source_url": "https://socialblade.com/instagram/user/joanne.kisses/realtime",
+        "instagram_url": "https://www.instagram.com/joanne.kisses/",
+        "tiktok_url": null,
+        "additional_instagram_followers": null,
+        "additional_tiktok_followers": null
+      },
+      "fanvue": {
+        "url": "https://www.fanvue.com/joanne",
+        "handle": "joanne",
+        "display_name": "Joanne",
+        "aggregate_likes": 197786,
+        "is_ai_creator": true,
+        "is_sfw_creator": false,
+        "localized_subscription_display": "₫285619",
+        "raw_subscription_price": 1099,
+        "raw_currency_verified": false,
+        "aggregate_likes_display": null
+      },
+      "activity": {},
+      "activity_note": "Current posting activity remains unresolved alongside the unavailable live main count. The SocialBlade snapshot is dated evidence.",
+      "limitations": "874,030 is an indexed SocialBlade snapshot crawled roughly three weeks before research. Live Instagram providers reported restrictions; current count remains unverified.",
+      "sources": [
+        {
+          "label": "Primary Fanvue profile",
+          "url": "https://www.fanvue.com/joanne",
+          "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+        },
+        {
+          "label": "Social profile",
+          "url": "https://www.instagram.com/joanne.kisses/",
+          "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+        },
+        {
+          "label": "Creator link hub / website",
+          "url": "https://joannekisses.com/",
+          "note": ""
+        },
+        {
+          "label": "Creator / corroboration source",
+          "url": "https://socialblade.com/instagram/user/joanne.kisses/realtime",
+          "note": ""
+        }
+      ],
+      "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included."
+    }
+  ]
+}

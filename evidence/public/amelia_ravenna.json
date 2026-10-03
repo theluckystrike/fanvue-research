@@ -1,0 +1,153 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Amelia Ravenna",
+  "identity_assessment": "Matched identity; outbound gap",
+  "identity_route": "Instagram names Amelia Ravenna and describes an Asian morena persona. Fanvue uses the identical full name, Bangkok location and AI creator flag. No live Instagram outbound subscription link was returned.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 17821,
+    "count_status": "current API",
+    "source_url": "https://www.instagram.com/amyliciousbby/",
+    "instagram_url": "https://www.instagram.com/amyliciousbby/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/amelia_ravenna",
+    "handle": "amelia_ravenna",
+    "display_name": "Amelia Ravenna",
+    "aggregate_likes": 28783,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫259630",
+    "raw_subscription_price": 999,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-09-12T09:41:48+00:00",
+      "posts_in_30_day_window": 1,
+      "median_likes": 461,
+      "median_likes_plus_comments": 504,
+      "observed_sample_interaction_ratio_percent": 2.8281241232254084,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DWmJSBoCZb7/",
+          "timestamp_utc": "2026-04-01T16:37:38+00:00",
+          "likes": 2845,
+          "comments": 140,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DWovWJrCb0I/",
+          "timestamp_utc": "2026-04-02T16:48:44+00:00",
+          "likes": 2044,
+          "comments": 92,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DXE8CXOCaLC/",
+          "timestamp_utc": "2026-04-13T15:38:22+00:00",
+          "likes": 4416,
+          "comments": 150,
+          "pinned": true
+        },
+        {
+          "url": "https://www.instagram.com/p/DdLsEF5IJxz/",
+          "timestamp_utc": "2026-09-12T09:41:48+00:00",
+          "likes": 461,
+          "comments": 43,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DctJBTAJDOo/",
+          "timestamp_utc": "2026-08-31T12:58:25+00:00",
+          "likes": 358,
+          "comments": 34,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcgeD6Ct_oS/",
+          "timestamp_utc": "2026-08-26T14:52:09+00:00",
+          "likes": 572,
+          "comments": 39,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DcIwnCiz93b/",
+          "timestamp_utc": "2026-08-17T09:52:28+00:00",
+          "likes": 366,
+          "comments": 27,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbXpd_bxIIw/",
+          "timestamp_utc": "2026-07-29T08:07:16+00:00",
+          "likes": 256,
+          "comments": 28,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbSuUIAiS-H/",
+          "timestamp_utc": "2026-07-27T10:13:22+00:00",
+          "likes": 427,
+          "comments": 41,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbNmSO-EVUn/",
+          "timestamp_utc": "2026-07-25T10:27:00+00:00",
+          "likes": 354,
+          "comments": 39,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbIViLxEbjl/",
+          "timestamp_utc": "2026-07-23T09:24:26+00:00",
+          "likes": 394,
+          "comments": 40,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DbF6WDpiRU7/",
+          "timestamp_utc": "2026-07-22T10:48:22+00:00",
+          "likes": 587,
+          "comments": 56,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned Instagram post: 12 Sep 2026. Only 1 returned post lies in the 30-day window (461 likes, 43 comments). One observation is insufficient to estimate typical engagement.",
+  "limitations": "Smaller niche reference at 17,821 followers. Identity is supported by matching public persona, not by a complete reciprocal link chain.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/amelia_ravenna",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.instagram.com/amyliciousbby/",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": null,
+      "note": ""
+    },
+    {
+      "label": "Independent handle cross-check",
+      "url": "https://influencers.feedspot.com/ai_fanvue_instagram_influencers/",
+      "note": "16 Sep 2026 list; discovery only"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

@@ -1,0 +1,170 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Hiyoko",
+  "identity_assessment": "Strong",
+  "identity_route": "Fanvue bio points to Beacons; creator Linkme links the exact TikTok handle. TikTok bio links the same X identity. TikTok statsV2 provides the unrounded count.",
+  "social": {
+    "platform": "TikTok",
+    "followers": 25845,
+    "count_status": "current API",
+    "source_url": "https://www.tiktok.com/@ai_hiyo_",
+    "instagram_url": null,
+    "tiktok_url": "https://www.tiktok.com/@ai_hiyo_",
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/ai_hiyo_",
+    "handle": "ai_hiyo_",
+    "display_name": "Hiyoko🐣",
+    "aggregate_likes": 23643,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫311608",
+    "raw_subscription_price": 1199,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "tiktok": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2026-05-17T11:48:46+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7640826328379362576",
+          "timestamp_utc": "2026-05-17T11:48:46+00:00",
+          "likes": 146,
+          "comments": 6,
+          "views": 3378,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7637300376563207440",
+          "timestamp_utc": "2026-05-07T23:47:58+00:00",
+          "likes": 210,
+          "comments": 6,
+          "views": 3512,
+          "shares": 5
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7634908711374392592",
+          "timestamp_utc": "2026-05-01T13:05:57+00:00",
+          "likes": 111,
+          "comments": 2,
+          "views": 3797,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7628142615426288912",
+          "timestamp_utc": "2026-04-13T07:29:54+00:00",
+          "likes": 133,
+          "comments": 5,
+          "views": 3334,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7603850592628280577",
+          "timestamp_utc": "2026-02-06T20:24:52+00:00",
+          "likes": 216,
+          "comments": 13,
+          "views": 5630,
+          "shares": 8
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7597656379331054849",
+          "timestamp_utc": "2026-01-21T03:47:22+00:00",
+          "likes": 394,
+          "comments": 8,
+          "views": 4274,
+          "shares": 8
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7597291169176898817",
+          "timestamp_utc": "2026-01-20T04:11:30+00:00",
+          "likes": 345,
+          "comments": 9,
+          "views": 5560,
+          "shares": 11
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7553676857892293889",
+          "timestamp_utc": "2025-09-24T15:24:22+00:00",
+          "likes": 260,
+          "comments": 10,
+          "views": 4731,
+          "shares": 10
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7552680374053227777",
+          "timestamp_utc": "2025-09-21T22:58:35+00:00",
+          "likes": 224,
+          "comments": 10,
+          "views": 4905,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7549676997119659265",
+          "timestamp_utc": "2025-09-13T20:43:35+00:00",
+          "likes": 392,
+          "comments": 9,
+          "views": 8642,
+          "shares": 6
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7548442808600808721",
+          "timestamp_utc": "2025-09-10T12:53:37+00:00",
+          "likes": 526,
+          "comments": 19,
+          "views": 8066,
+          "shares": 26
+        },
+        {
+          "url": "https://www.tiktok.com/@ai_hiyo_/video/7535323718428429569",
+          "timestamp_utc": "2025-08-06T04:24:45+00:00",
+          "likes": 278,
+          "comments": 21,
+          "views": 6998,
+          "shares": 5
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned TikTok video: 17 May 2026; 12 videos returned, none in the 30-day window. The follower count is current retrieval, but this sample does not establish current posting momentum.",
+  "limitations": "25,845 TikTok followers is meaningful niche reach, below a mega account. X appears to be its main channel, per its TikTok bio; X reach is supplementary, not substituted for TikTok. Recent-post checks returned only older activity; current growth is unproven.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/ai_hiyo_",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.tiktok.com/@ai_hiyo_",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://link.me/ai_hiyo_",
+      "note": ""
+    },
+    {
+      "label": "TikTok AI profile API documentation",
+      "url": "https://docs.tikhub.io/",
+      "note": ""
+    },
+    {
+      "label": "Broader channel context",
+      "url": "https://xbeast.io/twitter-influencers/ai_hiyo_",
+      "note": "Third-party X snapshot, not an Instagram/TikTok count"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

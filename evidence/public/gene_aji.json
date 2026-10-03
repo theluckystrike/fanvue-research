@@ -1,0 +1,254 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Gene_Aji / Aigirl_EX",
+  "identity_assessment": "Strong",
+  "identity_route": "Official hub links Instagram, TikTok and Fanvue. Instagram bio directly links /gene_aji and discloses AI. Current APIs agree on the exact social handles.",
+  "social": {
+    "platform": "TikTok",
+    "followers": 16720,
+    "count_status": "current API",
+    "source_url": "https://www.tiktok.com/@aigirl_ex",
+    "instagram_url": "https://www.instagram.com/aigirl_ex/",
+    "tiktok_url": "https://www.tiktok.com/@aigirl_ex",
+    "additional_instagram_followers": 9596,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/gene_aji",
+    "handle": "gene_aji",
+    "display_name": "Generated Asian Girls",
+    "aggregate_likes": 361,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫389835",
+    "raw_subscription_price": 1500,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "instagram": {
+      "returned_unique_posts": 12,
+      "latest_returned_utc": "2025-06-09T15:10:43+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DKr0CmvJh_1/",
+          "timestamp_utc": "2025-06-09T15:10:43+00:00",
+          "likes": 25,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKhestRJqAw/",
+          "timestamp_utc": "2025-06-05T14:51:49+00:00",
+          "likes": 17,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKeL-xwRaBu/",
+          "timestamp_utc": "2025-06-04T08:10:33+00:00",
+          "likes": 18,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKcZ6Vvp4uj/",
+          "timestamp_utc": "2025-06-03T15:33:47+00:00",
+          "likes": 20,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKHuN2TpfKZ/",
+          "timestamp_utc": "2025-05-26T14:47:10+00:00",
+          "likes": 20,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DKEFtgDJ8lR/",
+          "timestamp_utc": "2025-05-25T04:55:30+00:00",
+          "likes": 9,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJ8sWulRn_r/",
+          "timestamp_utc": "2025-05-22T07:59:15+00:00",
+          "likes": 11,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJ2yvxVSOUe/",
+          "timestamp_utc": "2025-05-20T00:59:40+00:00",
+          "likes": 15,
+          "comments": 2,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJzGu6RpJZi/",
+          "timestamp_utc": "2025-05-18T14:37:21+00:00",
+          "likes": 28,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJvCWi9ygJl/",
+          "timestamp_utc": "2025-05-17T00:42:06+00:00",
+          "likes": 13,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJtrxh6p47v/",
+          "timestamp_utc": "2025-05-16T12:05:34+00:00",
+          "likes": 19,
+          "comments": 0,
+          "pinned": false
+        },
+        {
+          "url": "https://www.instagram.com/p/DJtroZ1prfi/",
+          "timestamp_utc": "2025-05-16T12:04:19+00:00",
+          "likes": 13,
+          "comments": 0,
+          "pinned": false
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    },
+    "tiktok": {
+      "returned_unique_posts": 11,
+      "latest_returned_utc": "2026-04-04T13:49:52+00:00",
+      "posts_in_30_day_window": 0,
+      "median_likes": null,
+      "median_likes_plus_comments": null,
+      "observed_sample_interaction_ratio_percent": null,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7624900754725260560",
+          "timestamp_utc": "2026-04-04T13:49:52+00:00",
+          "likes": 80,
+          "comments": 4,
+          "views": 1949,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7576311573057162513",
+          "timestamp_utc": "2025-11-24T15:19:47+00:00",
+          "likes": 36,
+          "comments": 7,
+          "views": 1005,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7560718949030087957",
+          "timestamp_utc": "2025-10-13T14:51:30+00:00",
+          "likes": 60,
+          "comments": 10,
+          "views": 1314,
+          "shares": 2
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556988546280688916",
+          "timestamp_utc": "2025-10-03T13:35:13+00:00",
+          "likes": 61,
+          "comments": 4,
+          "views": 1541,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556963413239368980",
+          "timestamp_utc": "2025-10-03T11:57:42+00:00",
+          "likes": 62,
+          "comments": 4,
+          "views": 1258,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7556761264798698760",
+          "timestamp_utc": "2025-10-02T22:53:42+00:00",
+          "likes": 98,
+          "comments": 11,
+          "views": 1995,
+          "shares": 1
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7547026499526872340",
+          "timestamp_utc": "2025-09-06T17:17:46+00:00",
+          "likes": 141,
+          "comments": 15,
+          "views": 2097,
+          "shares": 3
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543146167714991361",
+          "timestamp_utc": "2025-08-27T06:19:53+00:00",
+          "likes": 364,
+          "comments": 46,
+          "views": 9043,
+          "shares": 4
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543126885161553153",
+          "timestamp_utc": "2025-08-27T05:05:01+00:00",
+          "likes": 18,
+          "comments": 2,
+          "views": 1633,
+          "shares": 0
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7543048783458848020",
+          "timestamp_utc": "2025-08-27T00:01:56+00:00",
+          "likes": 72,
+          "comments": 9,
+          "views": 2483,
+          "shares": 2
+        },
+        {
+          "url": "https://www.tiktok.com/@aigirl_ex/video/7542683602186784007",
+          "timestamp_utc": "2025-08-26T00:25:17+00:00",
+          "likes": 78,
+          "comments": 7,
+          "views": 1791,
+          "shares": 3
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned TikTok video: 4 Apr 2026; latest returned Instagram post: 9 Jun 2025. Neither sample contains a post in the 30-day window. Existing follower stock does not establish current growth.",
+  "limitations": "16,720 TikTok followers; 9,596 Instagram followers. Do not sum them as unique people. Strong identity chain, modest scale and limited paid-demand evidence. Recent-post checks returned only older activity; current growth is unproven.",
+  "sources": [
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/gene_aji",
+      "note": "AI flag, aggregate likes, public portrait and localized subscription from public page data, 3 Oct 2026"
+    },
+    {
+      "label": "Social profile",
+      "url": "https://www.tiktok.com/@aigirl_ex",
+      "note": "Provider-mediated observation; retrieval does not audit the authenticity of followers"
+    },
+    {
+      "label": "Creator link hub / website",
+      "url": "https://bio.site/Aigirl_EX",
+      "note": ""
+    },
+    {
+      "label": "Creator age / AI disclosure",
+      "url": "https://ko-fi.com/aigirl_ex",
+      "note": "Creator states fictional models are 20+"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

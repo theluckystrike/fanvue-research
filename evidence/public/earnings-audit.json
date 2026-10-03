@@ -1,0 +1,197 @@
+{
+  "research_date": "3 October 2026",
+  "independently_verified_amounts": 0,
+  "accounts_with_reported_claims": 2,
+  "accounts_without_qualifying_amount": 11,
+  "standard": "A validated source establishes what was reported. Independent financial validation would require attributable transaction or payout records and a defined accounting period; none were found for these accounts.",
+  "rows": [
+    {
+      "account_id": "lumiraex",
+      "name": "Lumirae",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "ms-meiling-xxx",
+      "name": "Meiling The Asian Doll",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "aikakittie",
+      "name": "Aika Kittie",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [
+        {
+          "account_id": "aikakittie",
+          "amount_display": "More than £5,000 / month",
+          "publication_date": "4 February 2025",
+          "publisher": "Indy100, creator/platform interview context",
+          "source": "https://www.indy100.com/viral/ai-influencer-men-valentines-day-2675262152",
+          "scope": "Aika’s Fanvue subscription service",
+          "evidence_grade": "Historical publisher-reported earnings claim",
+          "caveat": "The numerical amount is publisher narration. No ledger, payout records, accounting months or gross/net basis are supplied. It does not establish October 2026 income."
+        }
+      ],
+      "status": "Reported amount; financial receipt unverified"
+    },
+    {
+      "account_id": "amelia_ravenna",
+      "name": "Amelia Ravenna",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "ai_hiyo_",
+      "name": "Hiyoko",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "gene_aji",
+      "name": "Gene_Aji / Aigirl_EX",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "ariamehta",
+      "name": "Aria Mehta",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "yunamoore",
+      "name": "Yuna Moore",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "deannaritter98",
+      "name": "Deanna Ritter",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "fit_aitana",
+      "name": "Aitana Lopez",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [
+        {
+          "account_id": "fit_aitana",
+          "amount_display": "More than $20,000 / month",
+          "publication_date": "17 June 2026",
+          "publisher": "Fanvue via GlobeNewswire",
+          "source": "https://www.globenewswire.com/news-release/2026/06/17/3313237/0/en/moment-ai-influencer-goes-on-bizarre-awards-acceptance-speech-rant-calling-for-world-peace-at-the-oscars-for-ai-personalities.html",
+          "scope": "Brand deals + Fanvue subscriptions combined",
+          "evidence_grade": "Platform-reported; financially interested source",
+          "caveat": "Fanvue-only amount, accounting months, gross/net basis and profit are undisclosed. Dollar symbol reproduced without inferring an ISO currency."
+        },
+        {
+          "account_id": "fit_aitana",
+          "amount_display": "About €10,000 / month",
+          "publication_date": "2026 report; exact publication day undisclosed",
+          "publisher": "Fanvue report, page 15",
+          "source": "https://drive.google.com/file/d/1C5IIvK3Eq5am4V_1NM-Ybm1B5dVxukAz/view",
+          "scope": "Brand deals only; additional Fanvue revenue unspecified",
+          "evidence_grade": "Platform-reported; financially interested source",
+          "caveat": "The report describes paying Fanvue members but supplies no Fanvue-only monetary amount or audited receipts."
+        },
+        {
+          "account_id": "fit_aitana",
+          "amount_display": "$50,000–$80,000 / month",
+          "publication_date": "22 May 2026",
+          "publisher": "Fast Company, operator interview",
+          "source": "https://www.fastcompany.com/91546466/she-has-400000-instagram-followers-and-major-brand-deals-shes-also-ai",
+          "scope": "Overall Aitana business: brand deals, sponsored posts and Vellum software",
+          "evidence_grade": "Publisher-reported business revenue; operator interview",
+          "caveat": "Includes a software business. Neither Fanvue-only revenue nor profit is established; financial statements and exact accounting months are absent."
+        }
+      ],
+      "status": "Reported amount; financial receipt unverified"
+    },
+    {
+      "account_id": "alexisivyedge",
+      "name": "Alexis Ivyedge",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "hotgirlcinnamon99",
+      "name": "Cinnamon Dreams",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "joanne",
+      "name": "Joanne Kisses",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    }
+  ],
+  "claims": [
+    {
+      "account_id": "fit_aitana",
+      "amount_display": "More than $20,000 / month",
+      "publication_date": "17 June 2026",
+      "publisher": "Fanvue via GlobeNewswire",
+      "source": "https://www.globenewswire.com/news-release/2026/06/17/3313237/0/en/moment-ai-influencer-goes-on-bizarre-awards-acceptance-speech-rant-calling-for-world-peace-at-the-oscars-for-ai-personalities.html",
+      "scope": "Brand deals + Fanvue subscriptions combined",
+      "evidence_grade": "Platform-reported; financially interested source",
+      "caveat": "Fanvue-only amount, accounting months, gross/net basis and profit are undisclosed. Dollar symbol reproduced without inferring an ISO currency."
+    },
+    {
+      "account_id": "fit_aitana",
+      "amount_display": "About €10,000 / month",
+      "publication_date": "2026 report; exact publication day undisclosed",
+      "publisher": "Fanvue report, page 15",
+      "source": "https://drive.google.com/file/d/1C5IIvK3Eq5am4V_1NM-Ybm1B5dVxukAz/view",
+      "scope": "Brand deals only; additional Fanvue revenue unspecified",
+      "evidence_grade": "Platform-reported; financially interested source",
+      "caveat": "The report describes paying Fanvue members but supplies no Fanvue-only monetary amount or audited receipts."
+    },
+    {
+      "account_id": "fit_aitana",
+      "amount_display": "$50,000–$80,000 / month",
+      "publication_date": "22 May 2026",
+      "publisher": "Fast Company, operator interview",
+      "source": "https://www.fastcompany.com/91546466/she-has-400000-instagram-followers-and-major-brand-deals-shes-also-ai",
+      "scope": "Overall Aitana business: brand deals, sponsored posts and Vellum software",
+      "evidence_grade": "Publisher-reported business revenue; operator interview",
+      "caveat": "Includes a software business. Neither Fanvue-only revenue nor profit is established; financial statements and exact accounting months are absent."
+    },
+    {
+      "account_id": "aikakittie",
+      "amount_display": "More than £5,000 / month",
+      "publication_date": "4 February 2025",
+      "publisher": "Indy100, creator/platform interview context",
+      "source": "https://www.indy100.com/viral/ai-influencer-men-valentines-day-2675262152",
+      "scope": "Aika’s Fanvue subscription service",
+      "evidence_grade": "Historical publisher-reported earnings claim",
+      "caveat": "The numerical amount is publisher narration. No ledger, payout records, accounting months or gross/net basis are supplied. It does not establish October 2026 income."
+    }
+  ]
+}
