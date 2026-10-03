@@ -1,0 +1,53 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Kiki Herre",
+  "identity_assessment": "Strong creator-owned cross-link",
+  "identity_route": "The creator-owned public Telegram landing page names Kiki Herre and explicitly links exact Instagram @kikiherre_ and Fanvue /kikiherre_. Primary Fanvue identifies a Thai persona and sets the AI creator flag true.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 173000,
+    "count_status": "current primary HTML — rounded",
+    "count_precision": "rounded",
+    "displayed_count": "173K (rounded primary profile)",
+    "exact_count": null,
+    "source_url": "https://www.instagram.com/kikiherre_/",
+    "instagram_url": "https://www.instagram.com/kikiherre_/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/kikiherre_",
+    "handle": "kikiherre_",
+    "display_name": "Kiki🤍",
+    "aggregate_likes": 17448,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫207392",
+    "raw_subscription_price": 798,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "108 total Instagram posts displayed. Latest-post date and recent engagement remain unavailable; a current Fanvue promotion does not prove current Instagram activity.",
+  "limitations": "Primary Instagram metadata displays 173K followers and 108 total posts on 3 Oct 2026. Count is rounded; exact reach, recent posting, growth and audience quality are unresolved. The joined subscription offer does not prove completed sales or earnings.",
+  "sources": [
+    {
+      "label": "Primary Instagram audience",
+      "url": "https://www.instagram.com/kikiherre_/",
+      "note": "3 October 2026; rounded primary metadata"
+    },
+    {
+      "label": "Creator-owned Telegram identity join",
+      "url": "https://t.me/joinchat/FpAuVJ7JCCdkYmM0",
+      "note": "Public landing page explicitly links both exact profiles"
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/kikiherre_",
+      "note": "Thai persona bio, AI flag and localized offer; earnings unknown"
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

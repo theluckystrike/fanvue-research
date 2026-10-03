@@ -2,7 +2,7 @@
 
 Shareable report: https://theluckystrike.github.io/fanvue-research/
 
-Research date: 3 October 2026. Sixteen references, including eleven Asian personas; this does not establish ten currently high-performing, profitable Asian AI businesses. Social observations, two rounded primary Instagram counts, dated third-party counts, identity gaps, activity samples and unknown fields are labeled separately.
+Research date: 3 October 2026. 17 references, including 12 Asian personas; this does not establish ten currently high-performing, profitable Asian AI businesses. Social observations, 3 rounded primary Instagram counts, dated third-party counts, identity gaps, activity samples and unknown fields are labeled separately.
 
 The earnings audit contains attributable reports for Aitana, Aika and Mia. Mia’s historical creator-published dashboard screenshot is not independently authenticated and may show a partial month. No independently verified current Fanvue-only monthly earnings or profit was found for any reference. Reported amounts retain their dates and business scopes; unknown does not mean zero. The calculator is hypothetical.
 

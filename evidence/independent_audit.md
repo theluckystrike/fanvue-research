@@ -2,9 +2,9 @@
 
 Research date: 3 October 2026.
 
-Sixteen references are included: eleven Asian persona references and five broader benchmarks. Twelve primary social counts are exact provider observations, two are rounded current primary Instagram metadata, and Aika’s main count and Joanne’s main count are dated third-party evidence. A current count is not proof of current posting or growth. Persona ethnicity follows public self-description rather than facial inference.
+17 references are included: 12 Asian persona references and 5 broader benchmarks. 12 primary social counts are exact provider observations, 3 are rounded current primary Instagram metadata, and Aika’s main count and Joanne’s main count are dated third-party evidence. A current count is not proof of current posting or growth. Persona ethnicity follows public self-description rather than facial inference.
 
-Fifteen profiles carried an AI creator flag. Yuna’s AI status is unverified; remote rendered observations and direct page availability conflict. Aria has a verified creator-hub identity join but only older returned posts. Holly has a fully resolved hub destination; Buppha’s same-handle Thai identity is strongly corroborated but the current outbound funnel is unresolved. Buppha’s female persona biography conflicts with the platform gender field; operator identity is not inferred. Social samples do not audit audience authenticity or all feed activity.
+16 profiles carried an AI creator flag. Yuna’s AI status is unverified; remote rendered observations and direct page availability conflict. Aria has a verified creator-hub identity join but only older returned posts. Kiki’s public creator-owned Telegram cross-links the exact Instagram and Fanvue profiles; its primary audience is 173K rounded and recent social activity is unresolved. Holly has a fully resolved hub destination; Buppha’s same-handle Thai identity is strongly corroborated but the current outbound funnel is unresolved. Buppha’s female persona biography conflicts with the platform gender field; operator identity is not inferred. Social samples do not audit audience authenticity or all feed activity.
 
 Fanvue aggregate likes are not subscriber counts. Localized VND prices are preserved without inferring the ISO currency of raw integer prices. Unknown data is not replaced by zero.
 

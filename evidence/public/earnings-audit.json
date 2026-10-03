@@ -2,12 +2,20 @@
   "research_date": "3 October 2026",
   "independently_verified_amounts": 0,
   "accounts_with_reported_claims": 3,
-  "accounts_without_qualifying_amount": 13,
+  "accounts_without_qualifying_amount": 14,
   "standard": "A validated source establishes what was reported. Independent financial validation would require attributable transaction or payout records and a defined accounting period; none were found for these accounts.",
   "rows": [
     {
       "account_id": "lumiraex",
       "name": "Lumirae",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "kikiherre_",
+      "name": "Kiki Herre",
       "independently_verified_fanvue_monthly_income": null,
       "verified_profit": null,
       "reported_claims": [],
