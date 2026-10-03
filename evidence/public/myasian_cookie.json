@@ -1,0 +1,53 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Buppha / Myasian Cookie",
+  "identity_assessment": "Matched primary identity; outbound gap",
+  "identity_route": "Primary Instagram and Fanvue match exact @myasian_cookie handle, Buppha display name and Thai positioning. The creator-written Collabstr listing mentions Instagram and Fanvue. A current direct Instagram-to-Fanvue outbound destination was not recovered.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 94000,
+    "count_status": "current primary HTML — rounded",
+    "count_precision": "rounded",
+    "displayed_count": "94K (rounded primary profile)",
+    "exact_count": null,
+    "source_url": "https://www.instagram.com/myasian_cookie/",
+    "instagram_url": "https://www.instagram.com/myasian_cookie/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/myasian_cookie",
+    "handle": "myasian_cookie",
+    "display_name": "Buppha",
+    "aggregate_likes": 44755,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫311868",
+    "raw_subscription_price": 1200,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Total post count is observable; latest-post date and engagement sample remain unverified.",
+  "limitations": "Primary Instagram metadata displays 94K followers and 35 total posts, both observed on 3 Oct 2026. Count is rounded; recent activity and exact audience are unresolved. Linkme returned 404. Matching identity does not prove an active paid acquisition funnel.",
+  "sources": [
+    {
+      "label": "Primary social profile",
+      "url": "https://www.instagram.com/myasian_cookie/",
+      "note": "3 October 2026; rounded HTML metadata"
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/myasian_cookie",
+      "note": "Public AI flag, likes, localized offer and persona biography"
+    },
+    {
+      "label": "Creator-owned identity source",
+      "url": "https://collabstr.com/myasiancookie",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

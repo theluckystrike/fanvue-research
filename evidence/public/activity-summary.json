@@ -110,6 +110,7 @@
       "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
     }
   },
+  "myasian_cookie": {},
   "ms-meiling-xxx": {
     "instagram": {
       "returned_unique_posts": 10,
@@ -196,6 +197,67 @@
     }
   },
   "aikakittie": {},
+  "holly_kim": {},
+  "mia_njm": {
+    "tiktok": {
+      "returned_unique_posts": 5,
+      "latest_returned_utc": "2026-10-03T06:21:13+00:00",
+      "posts_in_30_day_window": 5,
+      "median_likes": 250,
+      "median_likes_plus_comments": 263,
+      "observed_sample_interaction_ratio_percent": 0.6362492742403716,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7692322784726306066",
+          "timestamp_utc": "2026-10-03T06:21:13+00:00",
+          "likes": 124,
+          "comments": 9,
+          "views": 1188,
+          "shares": 1,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7691909345973390593",
+          "timestamp_utc": "2026-10-02T03:36:51+00:00",
+          "likes": 608,
+          "comments": 8,
+          "views": 9818,
+          "shares": 10,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7691152261023665416",
+          "timestamp_utc": "2026-09-30T02:38:59+00:00",
+          "likes": 232,
+          "comments": 6,
+          "views": 3045,
+          "shares": 5,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7690901742661258514",
+          "timestamp_utc": "2026-09-29T10:26:49+00:00",
+          "likes": 349,
+          "comments": 12,
+          "views": 9577,
+          "shares": 3,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7689998162530028807",
+          "timestamp_utc": "2026-09-27T00:00:32+00:00",
+          "likes": 250,
+          "comments": 13,
+          "views": 4245,
+          "shares": 3,
+          "platform_ai_label": true
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
   "amelia_ravenna": {
     "instagram": {
       "returned_unique_posts": 12,

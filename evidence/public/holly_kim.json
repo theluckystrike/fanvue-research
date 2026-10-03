@@ -1,0 +1,53 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Holly Kim",
+  "identity_assessment": "Strong",
+  "identity_route": "Creator-owned Linkme lists exact Instagram @hollyy.kimm. Its public link resolver returns the exact /holly_kim Fanvue destination. Fanvue biography identifies Seoul-born, LA-based positioning.",
+  "social": {
+    "platform": "Instagram",
+    "followers": 36000,
+    "count_status": "current primary HTML — rounded",
+    "count_precision": "rounded",
+    "displayed_count": "36K (rounded primary profile)",
+    "exact_count": null,
+    "source_url": "https://www.instagram.com/hollyy.kimm/",
+    "instagram_url": "https://www.instagram.com/hollyy.kimm/",
+    "tiktok_url": null,
+    "additional_instagram_followers": null,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/holly_kim",
+    "handle": "holly_kim",
+    "display_name": "Holly Kim",
+    "aggregate_likes": 18691,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫259630",
+    "raw_subscription_price": 999,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {},
+  "activity_note": "Total post count is observable; latest-post date and engagement sample remain unverified.",
+  "limitations": "Primary Instagram metadata displays 36K followers and 655 total posts. It is a rounded audience observation, not an exact API count. Recent posting, growth, audience quality and earnings remain unverified.",
+  "sources": [
+    {
+      "label": "Primary social profile",
+      "url": "https://www.instagram.com/hollyy.kimm/",
+      "note": "3 October 2026; rounded HTML metadata"
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/holly_kim",
+      "note": "Public AI flag, likes, localized offer and persona biography"
+    },
+    {
+      "label": "Creator-owned identity source",
+      "url": "https://link.me/hollykim",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Actual earnings and profit are not publicly verified in this audit. A paid offer does not establish completed sales."
+}

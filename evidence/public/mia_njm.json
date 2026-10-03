@@ -1,0 +1,122 @@
+{
+  "research_date": "3 October 2026",
+  "persona": "Mia Nakajima",
+  "identity_assessment": "Strong",
+  "identity_route": "Primary creator note links exact Fanvue /mia_njm and owned X @BoobistR. X links the Mia Linkme hub; its public VIP resolver returns /mia_njm. Exact TikTok handle/name and the Japanese sports persona match. TikTok currently links Instagram @gekka_tf.",
+  "social": {
+    "platform": "TikTok",
+    "followers": 41336,
+    "count_status": "current API",
+    "count_precision": "exact returned count",
+    "displayed_count": "41,336",
+    "exact_count": 41336,
+    "source_url": "https://www.tiktok.com/@mia_njm",
+    "instagram_url": "https://www.instagram.com/gekka_tf/",
+    "tiktok_url": "https://www.tiktok.com/@mia_njm",
+    "additional_instagram_followers": 1688,
+    "additional_tiktok_followers": null
+  },
+  "fanvue": {
+    "url": "https://www.fanvue.com/mia_njm",
+    "handle": "mia_njm",
+    "display_name": "Mia nakajima",
+    "aggregate_likes": 11738,
+    "is_ai_creator": true,
+    "is_sfw_creator": false,
+    "localized_subscription_display": "₫337597",
+    "raw_subscription_price": 1299,
+    "raw_currency_verified": false,
+    "aggregate_likes_display": null
+  },
+  "activity": {
+    "tiktok": {
+      "returned_unique_posts": 5,
+      "latest_returned_utc": "2026-10-03T06:21:13+00:00",
+      "posts_in_30_day_window": 5,
+      "median_likes": 250,
+      "median_likes_plus_comments": 263,
+      "observed_sample_interaction_ratio_percent": 0.6362492742403716,
+      "window_start_utc": "2026-09-03T10:17:00+00:00",
+      "window_end_utc": "2026-10-03T10:17:00+00:00",
+      "posts": [
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7692322784726306066",
+          "timestamp_utc": "2026-10-03T06:21:13+00:00",
+          "likes": 124,
+          "comments": 9,
+          "views": 1188,
+          "shares": 1,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7691909345973390593",
+          "timestamp_utc": "2026-10-02T03:36:51+00:00",
+          "likes": 608,
+          "comments": 8,
+          "views": 9818,
+          "shares": 10,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7691152261023665416",
+          "timestamp_utc": "2026-09-30T02:38:59+00:00",
+          "likes": 232,
+          "comments": 6,
+          "views": 3045,
+          "shares": 5,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7690901742661258514",
+          "timestamp_utc": "2026-09-29T10:26:49+00:00",
+          "likes": 349,
+          "comments": 12,
+          "views": 9577,
+          "shares": 3,
+          "platform_ai_label": true
+        },
+        {
+          "url": "https://www.tiktok.com/@mia_njm/video/7689998162530028807",
+          "timestamp_utc": "2026-09-27T00:00:32+00:00",
+          "likes": 250,
+          "comments": 13,
+          "views": 4245,
+          "shares": 3,
+          "platform_ai_label": true
+        }
+      ],
+      "limitations": "Returned sample only; no exhaustive chronology, follower-quality audit or paid-demand proof. Different post ages, reach and platforms prevent fair performance ranking. Likes + comments divided by today's followers is an observed sample ratio, not an audited engagement rate."
+    }
+  },
+  "activity_note": "Latest returned TikTok post: 3 Oct 2026. Five returned posts span 27 Sep–3 Oct; all carry the platform AI-content flag. Median views: 4,245; median likes: 250. Unequal post ages and a small sample limit performance comparisons; no growth rate or current income inferred.",
+  "limitations": "Current TikTok API returns 41,336 followers, 268,780 aggregate likes and 102 videos. The linked Instagram @gekka_tf has only 1,688 followers. Do not substitute the creator’s historical large Instagram claims for current observed reach.",
+  "sources": [
+    {
+      "label": "Primary social profile",
+      "url": "https://www.tiktok.com/@mia_njm",
+      "note": "3 October 2026; exact provider profile"
+    },
+    {
+      "label": "Primary Fanvue profile",
+      "url": "https://www.fanvue.com/mia_njm",
+      "note": "Public AI flag, likes, localized offer and persona biography"
+    },
+    {
+      "label": "Creator-owned identity source",
+      "url": "https://link.me/mianakajima",
+      "note": ""
+    },
+    {
+      "label": "Creator public note / historical earnings source",
+      "url": "https://note.com/mia_mjm/n/n582c0c979315",
+      "note": "4 April 2025; historical self-report, not independently audited"
+    },
+    {
+      "label": "Creator X identity",
+      "url": "https://x.com/BoobistR",
+      "note": ""
+    }
+  ],
+  "sanitation": "Minimal public research fields only. No cookies, authentication values, provider IDs, private media or unpublished earnings included.",
+  "earnings_note": "Reported earnings claims exist; actual Fanvue-only income and profit remain unverified. See the earnings audit."
+}

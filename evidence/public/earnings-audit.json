@@ -1,13 +1,21 @@
 {
   "research_date": "3 October 2026",
   "independently_verified_amounts": 0,
-  "accounts_with_reported_claims": 2,
-  "accounts_without_qualifying_amount": 11,
+  "accounts_with_reported_claims": 3,
+  "accounts_without_qualifying_amount": 13,
   "standard": "A validated source establishes what was reported. Independent financial validation would require attributable transaction or payout records and a defined accounting period; none were found for these accounts.",
   "rows": [
     {
       "account_id": "lumiraex",
       "name": "Lumirae",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "myasian_cookie",
+      "name": "Buppha / Myasian Cookie",
       "independently_verified_fanvue_monthly_income": null,
       "verified_profit": null,
       "reported_claims": [],
@@ -36,6 +44,53 @@
           "scope": "Aika’s Fanvue subscription service",
           "evidence_grade": "Historical publisher-reported earnings claim",
           "caveat": "The numerical amount is publisher narration. No ledger, payout records, accounting months or gross/net basis are supplied. It does not establish October 2026 income."
+        }
+      ],
+      "status": "Reported amount; financial receipt unverified"
+    },
+    {
+      "account_id": "holly_kim",
+      "name": "Holly Kim",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [],
+      "status": "No qualifying named public earnings amount found"
+    },
+    {
+      "account_id": "mia_njm",
+      "name": "Mia Nakajima",
+      "independently_verified_fanvue_monthly_income": null,
+      "verified_profit": null,
+      "reported_claims": [
+        {
+          "account_id": "mia_njm",
+          "amount_display": "$6,335.03 NET · February 2025",
+          "publication_date": "4 April 2025; screenshot caption 23 February 2025",
+          "publisher": "Mia Nakajima, creator-authored public note",
+          "source": "https://note.com/mia_mjm/n/n582c0c979315",
+          "scope": "Creator-attributed Fanvue dashboard; February accounting period potentially partial",
+          "evidence_grade": "Historical creator-published screenshot; not independently authenticated",
+          "previous_dashboard_rows": [
+            {
+              "row": "January2025",
+              "amount": 1763.36,
+              "symbol": "$",
+              "label": "NET"
+            },
+            {
+              "row": "December2024",
+              "amount": 807.2,
+              "symbol": "$",
+              "label": "NET"
+            },
+            {
+              "row": "November2024",
+              "amount": 80.45,
+              "symbol": "$",
+              "label": "NET"
+            }
+          ],
+          "caveat": "The article directly links /mia_njm, but the screenshot has no visible handle. Top filter shows 23 Jan–22 Feb 2025. NET is a dashboard label, not verified business profit or a withdrawn payout; current earnings are unknown. Dollar symbol retained without an independent currency audit."
         }
       ],
       "status": "Reported amount; financial receipt unverified"
@@ -192,6 +247,36 @@
       "scope": "Aika’s Fanvue subscription service",
       "evidence_grade": "Historical publisher-reported earnings claim",
       "caveat": "The numerical amount is publisher narration. No ledger, payout records, accounting months or gross/net basis are supplied. It does not establish October 2026 income."
+    },
+    {
+      "account_id": "mia_njm",
+      "amount_display": "$6,335.03 NET · February 2025",
+      "publication_date": "4 April 2025; screenshot caption 23 February 2025",
+      "publisher": "Mia Nakajima, creator-authored public note",
+      "source": "https://note.com/mia_mjm/n/n582c0c979315",
+      "scope": "Creator-attributed Fanvue dashboard; February accounting period potentially partial",
+      "evidence_grade": "Historical creator-published screenshot; not independently authenticated",
+      "previous_dashboard_rows": [
+        {
+          "row": "January2025",
+          "amount": 1763.36,
+          "symbol": "$",
+          "label": "NET"
+        },
+        {
+          "row": "December2024",
+          "amount": 807.2,
+          "symbol": "$",
+          "label": "NET"
+        },
+        {
+          "row": "November2024",
+          "amount": 80.45,
+          "symbol": "$",
+          "label": "NET"
+        }
+      ],
+      "caveat": "The article directly links /mia_njm, but the screenshot has no visible handle. Top filter shows 23 Jan–22 Feb 2025. NET is a dashboard label, not verified business profit or a withdrawn payout; current earnings are unknown. Dollar symbol retained without an independent currency audit."
     }
   ]
 }
